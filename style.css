@@ -1,0 +1,10 @@
+body{
+
+    background-image: url("racing.gif");
+    background-image: center;
+    background-size: cover;
+}
+
+h1{
+    color: white;
+}
